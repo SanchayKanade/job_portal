@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "backend_server.Controllers.CompanyController",
+    "Method": "CreateCompany",
+    "RelativePath": "api/Company/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "backend_server.Core.Dtos.Company.CompanyCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "backend_server.Controllers.CompanyController",
+    "Method": "GetCompanies",
+    "RelativePath": "api/Company/Get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[backend_server.Core.Dtos.Company.CompanyGetDto, backend_server, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
