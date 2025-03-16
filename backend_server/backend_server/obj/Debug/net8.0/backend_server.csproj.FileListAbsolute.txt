@@ -171,3 +171,5 @@ E:\Projects\job_portal\backend_server\backend_server\obj\Debug\net8.0\refint\bac
 E:\Projects\job_portal\backend_server\backend_server\obj\Debug\net8.0\backend_server.pdb
 E:\Projects\job_portal\backend_server\backend_server\obj\Debug\net8.0\backend_server.genruntimeconfig.cache
 E:\Projects\job_portal\backend_server\backend_server\obj\Debug\net8.0\ref\backend_server.dll
+E:\Projects\job_portal\backend_server\backend_server\bin\Debug\net8.0\AutoMapper.dll
+E:\Projects\job_portal\backend_server\backend_server\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

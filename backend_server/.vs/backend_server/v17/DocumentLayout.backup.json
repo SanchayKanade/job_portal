@@ -3,48 +3,28 @@
   "WorkspaceRootPath": "E:\\Projects\\job_portal\\backend_server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\core\\automapperconfig\\automapperconfigprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\core\\automapperconfig\\automapperconfigprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\job_portal\\backend_server\\backend_server\\Migrations\\20250316151239_initial-migration-reattempt1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend_server\\Migrations\\20250316151239_initial-migration-reattempt1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\core\\dtos\\company\\companygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\core\\dtos\\company\\companygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\core\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\core\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\job_portal\\backend_server\\backend_server\\Migrations\\20250316145638_initial-migration-reattempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend_server\\Migrations\\20250316145638_initial-migration-reattempt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\core\\entities\\baseentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\core\\entities\\baseentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\core\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\core\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\core\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\core\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\core\\enums\\companysize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\core\\enums\\companysize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\core\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\core\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\core\\enums\\joblevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\core\\enums\\joblevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\core\\dtos\\company\\companycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\core\\dtos\\company\\companycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,58 +34,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20250316151239_initial-migration-reattempt1.cs",
-              "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Migrations\\20250316151239_initial-migration-reattempt1.cs",
-              "RelativeDocumentMoniker": "backend_server\\Migrations\\20250316151239_initial-migration-reattempt1.cs",
-              "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Migrations\\20250316151239_initial-migration-reattempt1.cs",
-              "RelativeToolTip": "backend_server\\Migrations\\20250316151239_initial-migration-reattempt1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CompanyGetDto.cs",
+              "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\Dtos\\Company\\CompanyGetDto.cs",
+              "RelativeDocumentMoniker": "backend_server\\Core\\Dtos\\Company\\CompanyGetDto.cs",
+              "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\Dtos\\Company\\CompanyGetDto.cs",
+              "RelativeToolTip": "backend_server\\Core\\Dtos\\Company\\CompanyGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T15:12:39.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20250316145638_initial-migration-reattempt.cs",
-              "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Migrations\\20250316145638_initial-migration-reattempt.cs",
-              "RelativeDocumentMoniker": "backend_server\\Migrations\\20250316145638_initial-migration-reattempt.cs",
-              "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Migrations\\20250316145638_initial-migration-reattempt.cs",
-              "RelativeToolTip": "backend_server\\Migrations\\20250316145638_initial-migration-reattempt.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T14:56:38.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\appsettings.json",
-              "RelativeDocumentMoniker": "backend_server\\appsettings.json",
-              "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\appsettings.json",
-              "RelativeToolTip": "backend_server\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-16T14:20:43.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Program.cs",
-              "RelativeDocumentMoniker": "backend_server\\Program.cs",
-              "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Program.cs",
-              "RelativeToolTip": "backend_server\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T14:19:25.304Z",
+              "WhenOpened": "2025-03-16T15:54:08.732Z",
               "EditorCaption": ""
             },
             {
@@ -116,82 +57,62 @@
               "RelativeDocumentMoniker": "backend_server\\Core\\Context\\ApplicationDbContext.cs",
               "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\Context\\ApplicationDbContext.cs",
               "RelativeToolTip": "backend_server\\Core\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAcwBYAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T14:11:50.343Z",
+              "WhenOpened": "2025-03-16T15:46:25.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "JobLevel.cs",
-              "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\Enums\\JobLevel.cs",
-              "RelativeDocumentMoniker": "backend_server\\Core\\Enums\\JobLevel.cs",
-              "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\Enums\\JobLevel.cs",
-              "RelativeToolTip": "backend_server\\Core\\Enums\\JobLevel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Program.cs",
+              "RelativeDocumentMoniker": "backend_server\\Program.cs",
+              "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Program.cs",
+              "RelativeToolTip": "backend_server\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T14:03:43.274Z"
+              "WhenOpened": "2025-03-16T15:39:43.642Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CompanySize.cs",
-              "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\Enums\\CompanySize.cs",
-              "RelativeDocumentMoniker": "backend_server\\Core\\Enums\\CompanySize.cs",
-              "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\Enums\\CompanySize.cs",
-              "RelativeToolTip": "backend_server\\Core\\Enums\\CompanySize.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AutoMapperConfigProfile.cs",
+              "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "RelativeDocumentMoniker": "backend_server\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "RelativeToolTip": "backend_server\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T14:02:50.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Candidate.cs",
-              "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\Entities\\Candidate.cs",
-              "RelativeDocumentMoniker": "backend_server\\Core\\Entities\\Candidate.cs",
-              "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\Entities\\Candidate.cs",
-              "RelativeToolTip": "backend_server\\Core\\Entities\\Candidate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T14:02:13.098Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Job.cs",
-              "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\Entities\\Job.cs",
-              "RelativeDocumentMoniker": "backend_server\\Core\\Entities\\Job.cs",
-              "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\Entities\\Job.cs",
-              "RelativeToolTip": "backend_server\\Core\\Entities\\Job.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T14:01:40.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Company.cs",
-              "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\Entities\\Company.cs",
-              "RelativeDocumentMoniker": "backend_server\\Core\\Entities\\Company.cs",
-              "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\Entities\\Company.cs",
-              "RelativeToolTip": "backend_server\\Core\\Entities\\Company.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T14:00:47.246Z"
+              "WhenOpened": "2025-03-16T15:37:39.067Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BaseEntities.cs",
-              "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\Entities\\BaseEntities.cs",
-              "RelativeDocumentMoniker": "backend_server\\Core\\Entities\\BaseEntities.cs",
-              "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\Entities\\BaseEntities.cs",
-              "RelativeToolTip": "backend_server\\Core\\Entities\\BaseEntities.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "CompanyCreateDto.cs",
+              "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\Dtos\\Company\\CompanyCreateDto.cs",
+              "RelativeDocumentMoniker": "backend_server\\Core\\Dtos\\Company\\CompanyCreateDto.cs",
+              "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\Dtos\\Company\\CompanyCreateDto.cs",
+              "RelativeToolTip": "backend_server\\Core\\Dtos\\Company\\CompanyCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T13:58:38.447Z"
+              "WhenOpened": "2025-03-16T15:34:36.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompanyController.cs",
+              "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Controllers\\CompanyController.cs",
+              "RelativeDocumentMoniker": "backend_server\\Controllers\\CompanyController.cs",
+              "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Controllers\\CompanyController.cs",
+              "RelativeToolTip": "backend_server\\Controllers\\CompanyController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwDAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T15:28:17.747Z",
+              "EditorCaption": ""
             }
           ]
         }
