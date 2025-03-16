@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "E:\\Projects\\job_portal\\backend_server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\core\\automapperconfig\\automapperconfigprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\core\\automapperconfig\\automapperconfigprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\core\\dtos\\job\\jobgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\core\\dtos\\job\\jobgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\core\\dtos\\job\\jobcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\core\\dtos\\job\\jobcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,65 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "JobController.cs",
-              "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Controllers\\JobController.cs",
-              "RelativeDocumentMoniker": "backend_server\\Controllers\\JobController.cs",
-              "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Controllers\\JobController.cs",
-              "RelativeToolTip": "backend_server\\Controllers\\JobController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "backend_server\\Controllers\\CandidateController.cs",
+              "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "backend_server\\Controllers\\CandidateController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwC4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T16:14:09.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "JobGetDto.cs",
-              "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\Dtos\\Job\\JobGetDto.cs",
-              "RelativeDocumentMoniker": "backend_server\\Core\\Dtos\\Job\\JobGetDto.cs",
-              "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\Dtos\\Job\\JobGetDto.cs",
-              "RelativeToolTip": "backend_server\\Core\\Dtos\\Job\\JobGetDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T16:07:32.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "JobCreateDto.cs",
-              "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\Dtos\\Job\\JobCreateDto.cs",
-              "RelativeDocumentMoniker": "backend_server\\Core\\Dtos\\Job\\JobCreateDto.cs",
-              "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\Dtos\\Job\\JobCreateDto.cs",
-              "RelativeToolTip": "backend_server\\Core\\Dtos\\Job\\JobCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T16:07:16.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Program.cs",
-              "RelativeDocumentMoniker": "backend_server\\Program.cs",
-              "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Program.cs",
-              "RelativeToolTip": "backend_server\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T15:39:43.642Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AutoMapperConfigProfile.cs",
-              "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
-              "RelativeDocumentMoniker": "backend_server\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
-              "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
-              "RelativeToolTip": "backend_server\\Core\\AutoMapperConfig\\AutoMapperConfigProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T15:37:39.067Z",
+              "WhenOpened": "2025-03-16T16:26:40.719Z",
               "EditorCaption": ""
             }
           ]
