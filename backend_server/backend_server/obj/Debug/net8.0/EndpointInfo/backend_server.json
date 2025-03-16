@@ -73,6 +73,37 @@
           }
         }
       }
+    },
+    "/api/Job/Create": {
+      "post": {
+        "tags": [
+          "Job"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/JobCreateDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/JobCreateDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/JobCreateDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {
@@ -116,6 +147,35 @@
           "Small",
           "Medium",
           "Large"
+        ],
+        "type": "string"
+      },
+      "JobCreateDto": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "level": {
+            "$ref": "#/components/schemas/JobLevel"
+          },
+          "companyId": {
+            "type": "integer",
+            "format": "int64"
+          }
+        },
+        "additionalProperties": false
+      },
+      "JobLevel": {
+        "enum": [
+          "Intern",
+          "Junior",
+          "MidLevel",
+          "Senior",
+          "TeamLead",
+          "Cto",
+          "Architect"
         ],
         "type": "string"
       }

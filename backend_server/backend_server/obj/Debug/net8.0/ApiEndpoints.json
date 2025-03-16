@@ -34,5 +34,21 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "backend_server.Controllers.JobController",
+    "Method": "CreateJob",
+    "RelativePath": "api/Job/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "backend_server.Core.Dtos.Job.JobCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
