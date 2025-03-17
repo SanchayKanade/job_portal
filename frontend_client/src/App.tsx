@@ -7,6 +7,7 @@ import CustomLinearProgress from "./components/navbar/custom-linear-progress/Cus
 
 // Imports with Lazy loading
 const Home = lazy(() => import("./pages/home/Home.page"));
+const Companies = lazy(() => import("./pages/companies/Companies.page"));
 
 const App = () => {
   const { darkMode } = useContext(ThemeContext);
@@ -20,6 +21,9 @@ const App = () => {
         <Suspense fallback={<CustomLinearProgress />}>
           <Routes>
             <Route path="/" element={<Home />} />
+            <Route path="/companies">
+              <Route index element={<Companies />} />
+            </Route>
           </Routes>
         </Suspense>
       </div>
