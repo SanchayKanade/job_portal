@@ -14,7 +14,7 @@ interface IThemeContextProviderProps {
   children: React.ReactNode;
 }
 
-const ThemeProvider = ({ children }: IThemeContextProviderProps) => {
+const ThemeContextProvider = ({ children }: IThemeContextProviderProps) => {
   const [darkMode, setDarkMode] = useState<boolean>(false);
 
   const toggleDarkMode: () => void = () => {
@@ -28,4 +28,4 @@ const ThemeProvider = ({ children }: IThemeContextProviderProps) => {
   );
 };
 
-export default ThemeProvider;
+export default ThemeContextProvider;

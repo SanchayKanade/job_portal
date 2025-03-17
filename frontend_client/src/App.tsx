@@ -14,7 +14,7 @@ const App = () => {
   const appStyles = darkMode ? "app-dark" : "app";
 
   return (
-    <div className={appStyles}>
+    <div className={`app ${darkMode ? "dark" : ""}`}>
       <Navbar />
       <div className="wrapper">
         <Suspense fallback={<CustomLinearProgress />}>
