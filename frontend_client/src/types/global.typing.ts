@@ -5,7 +5,13 @@ export interface ICompany {
    createdAt: string;
 }
 
-
+//Creating DTO for companies
+export interface ICreateCompany {
+   
+   name: string;
+   size: string;
+   
+}
 // [
 //     {
 //       "id": 1,
