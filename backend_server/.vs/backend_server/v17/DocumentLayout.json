@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\Projects\\job_portal\\backend_server\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|e:\\projects\\job_portal\\backend_server\\backend_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A474D897-4724-4526-9CD0-6063B49B18A9}|backend_server\\backend_server.csproj|solutionrelative:backend_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Program.cs",
               "RelativeDocumentMoniker": "backend_server\\Program.cs",
               "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Program.cs",
               "RelativeToolTip": "backend_server\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwCwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T16:40:42.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CandidateController.cs",
               "DocumentMoniker": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Controllers\\CandidateController.cs",
               "RelativeDocumentMoniker": "backend_server\\Controllers\\CandidateController.cs",
               "ToolTip": "E:\\Projects\\job_portal\\backend_server\\backend_server\\Controllers\\CandidateController.cs",
               "RelativeToolTip": "backend_server\\Controllers\\CandidateController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAUwE8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwE8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T16:26:40.719Z",
               "EditorCaption": ""
