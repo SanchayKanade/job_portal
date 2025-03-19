@@ -26,6 +26,26 @@ export interface IJob {
     level: string;
     companyId: string;
  }
+
+ export interface ICandidate {
+   id: string;
+   firstName: string;
+   lastName: string;
+   email: string;
+   phone: string;
+   coverLetter: string;
+   resumeUrl: string;
+   jobId: string;
+   jobTitle: string;
+}
+export interface ICreateCandidateDto {
+   firstName: string;
+   lastName: string;
+   email: string;
+   phone: string;
+   coverLetter: string;
+   jobId: string;
+}
 // [
 //     {
 //       "id": 1,
